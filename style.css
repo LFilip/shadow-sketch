@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+.content {
+  background-color: lightgrey;
+}
+
+#grid {
+  margin: 0 auto;
+  height: 500px;
+  width: 500px;
+  background-color: black;
+}
+
+#myBtn {
+  float:left;
+}
+.cell-unvisited {
+  background-color: white;
+}
+.cell-visited {
+  background-color:white;
+}
