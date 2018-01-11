@@ -1,11 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 .content {
-  background-color: lightgrey;
 }
 
 #grid {
@@ -18,9 +17,19 @@ body {
 #myBtn {
   float:left;
 }
+
+
 .cell-unvisited {
   background-color: white;
 }
+
 .cell-visited {
   background-color:white;
+}
+
+.header {
+  background-color: blue;
+  width: 500px;
+  margin: 0 auto;
+  height: 115px;
 }
